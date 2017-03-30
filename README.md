@@ -3,14 +3,12 @@ A collection of useful accessibility links
 
 **Table of Contents**
 
-- [a11y-links](#)
-	- [Table Of Contents](#)
-	- [Testing](#)
-		- [Tools](#)
-			- [In Browser](#)
-			- [CLI](#)
-			- [IDE (Could be considered CLI)](#)
-		- [Tool Testing](#)
+- [Testing](#testing)
+	- [Tools](#tools)
+		- [In Browser](#in-browser)
+		- [CLI](#CLI)
+		- [IDE (Could be considered CLI)](##ide-could-be-considered-cli)
+	- [Tool Testing](#tool-testing)
 
 
 ## Testing
