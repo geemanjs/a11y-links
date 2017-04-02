@@ -3,12 +3,25 @@ A collection of useful accessibility links
 
 **Table of Contents**
 
-- [Testing](#testing)
-	- [Tools](#tools)
-		- [In Browser](#in-browser)
-		- [CLI](#CLI)
-		- [IDE (Could be considered CLI)](##ide-could-be-considered-cli)
-	- [Tool Testing](#tool-testing)
+   * [Components](#components)
+      * [Forms](#forms)
+         * [Learn more](#learn-more)
+         * [Libraries](#libraries)
+      * [Menus](#menus)
+         * [Learn more](#learn-more-1)
+         * [Libraries](#libraries-1)
+      * [Select](#select)
+         * [Learn more](#learn-more-2)
+         * [Libraries](#libraries-2)
+      * [Dialogs](#dialogs)
+         * [Learn more](#learn-more-3)
+         * [Libraries](#libraries-3)
+   * [Testing](#testing)
+      * [Tools](#tools)
+         * [In Browser](#in-browser)
+         * [CLI](#cli)
+         * [IDE (Could be considered CLI)](#ide-could-be-considered-cli)
+      * [Tool Testing](#tool-testing)
 
 ## Components
 ### Forms
