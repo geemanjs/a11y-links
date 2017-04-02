@@ -28,6 +28,7 @@ A collection of useful accessibility links
 
 #### Libraries
 | link | Description |
+|-|-|
 | [A11y Dialog](http://edenspiekermann.github.io/a11y-dialog/) | Lightweight library, html, js api  |
 | [React Modal](https://github.com/reactjs/react-modal) | Good community who actively test with assistive tools |
 
