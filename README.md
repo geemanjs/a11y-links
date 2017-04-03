@@ -32,8 +32,7 @@ A collection of useful accessibility links
 #### Learn more
 | Links | Description | 
 |-|-|
-| [W3 Guidance](https://www.w3.org/WAI/tutorials/menus/) | Fantastic resource from W3 with a collection of recommendations & best 
-practices |
+| [W3 Guidance](https://www.w3.org/WAI/tutorials/menus/) | Fantastic resource from W3 with a collection of recommendations & best practices |
 | [Heydon works guidance](http://heydonworks.com/practical_aria_examples/#submenus) | Navbar with dropdown, works really well! |
 | [Terril Thompson guidance](http://terrillthompson.com/blog/474) | Slightly outdated, but very relevant recommendations |
 #### Libraries
@@ -52,10 +51,8 @@ practices |
 #### Learn more
 | Link | Description | 
 |-|-|
-| [Mozilla Guidance](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_dialog_role) | Mozilla's 
-advice on managing dialogs |
-| [Smashing Magazine Guidance](https://www.smashingmagazine.com/2014/09/making-modal-windows-better-for-everyone/) | Detailed post by 
-smashing magazine recommending best practices | 
+| [Mozilla Guidance](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_dialog_role) | Mozilla's advice on managing dialogs |
+| [Smashing Magazine Guidance](https://www.smashingmagazine.com/2014/09/making-modal-windows-better-for-everyone/) | Detailed post by smashing magazine recommending best practices | 
 
 #### Libraries
 | link | Description |
