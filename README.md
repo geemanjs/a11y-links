@@ -34,10 +34,17 @@ A collection of useful accessibility links
 
 ### Select
 #### Learn more
+
 #### Libraries
 
 ### Dialogs
 #### Learn more
+| Link | Description | 
+|-|-|
+| [Mozilla Guidance](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_dialog_role) | Mozilla's 
+advice on managing dialogs |
+| [Smashing Magazine Guidance](https://www.smashingmagazine.com/2014/09/making-modal-windows-better-for-everyone/) | Detailed post by 
+smashing magazine recommending best practices | 
 
 #### Libraries
 | link | Description |
