@@ -28,9 +28,20 @@ A collection of useful accessibility links
 #### Learn more
 #### Libraries
 
-### Menus
+### Navbars/Menus
 #### Learn more
+| Links | Description | 
+|-|-|
+| [W3 Guidance](https://www.w3.org/WAI/tutorials/menus/) | Fantastic resource from W3 with a collection of recommendations & best 
+practices |
+| [Heydon works guidance](http://heydonworks.com/practical_aria_examples/#submenus) | Navbar with dropdown, works really well! |
+| [Terril Thompson guidance](http://terrillthompson.com/blog/474) | Slightly outdated, but very relevant recommendations |
 #### Libraries
+| Links | Description |
+|-|-|
+| [React Router](https://reacttraining.com/react-router/)| When combined with advice above can produce great menus |
+| [React Bootstrap](https://react-bootstrap.github.io/components.html#navigation)| Accessible bootstrap navigation bar |
+| [React Tray](http://instructure-react.github.io/react-tray/basic/) | Instructure library - Very well made! |
 
 ### Select
 #### Learn more
