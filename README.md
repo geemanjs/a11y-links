@@ -23,9 +23,33 @@ A collection of useful accessibility links
          * [IDE (Could be considered CLI)](#ide-could-be-considered-cli)
       * [Tool Testing](#tool-testing)
 
+## How this list was formed
+I will test with:
+   * JAWS
+   * Dragon
+   * Zoomtext
+   
+### Learn more sections
+* Could someone with a basic grasp of JS,CSS,HTML understand it?
+* Is it well written?
+* Is it well presented?
+* Are coding samples supplied?
+* Do the coding samples follow 'best' practice?
+* Do the coding samples follow WCAG Guidelines/advice?
+* Does the output from the coding samples work well with the tools?
+* Does the guidance come from a 'well known' resource?
+
+### Libraries sections
+* Does the recommended output work well with the tools?
+* Is it easy to produce errors?
+* Library size?
+* Library usability?
+* Library extension points?
+
 ## Components
 ### Forms
 #### Learn more
+
 #### Libraries
 
 ### Navbars/Menus
