@@ -2,26 +2,35 @@
 A collection of useful accessibility links
 
 **Table of Contents**
-
-   * [Components](#components)
-      * [Forms](#forms)
-         * [Learn more](#learn-more)
-         * [Libraries](#libraries)
-      * [Menus](#menus)
-         * [Learn more](#learn-more-1)
-         * [Libraries](#libraries-1)
-      * [Select](#select)
-         * [Learn more](#learn-more-2)
-         * [Libraries](#libraries-2)
-      * [Dialogs](#dialogs)
-         * [Learn more](#learn-more-3)
-         * [Libraries](#libraries-3)
-   * [Testing](#testing)
-      * [Tools](#tools)
-         * [In Browser](#in-browser)
-         * [CLI](#cli)
-         * [IDE (Could be considered CLI)](#ide-could-be-considered-cli)
-      * [Tool Testing](#tool-testing)
+   * [a11y-links](#a11y-links)
+      * [How this list was formed](#how-this-list-was-formed)
+         * [Learn more sections](#learn-more-sections)
+         * [Libraries sections](#libraries-sections)
+      * [Components](#components)
+         * [Forms](#forms)
+            * [Learn more](#learn-more)
+            * [Libraries](#libraries)
+         * [Navbars/Menus](#navbarsmenus)
+            * [Learn more](#learn-more-1)
+            * [Libraries](#libraries-1)
+         * [Select](#select)
+            * [Learn more](#learn-more-2)
+            * [Libraries](#libraries-2)
+         * [Dialogs](#dialogs)
+            * [Learn more](#learn-more-3)
+            * [Libraries](#libraries-3)
+         * [Tables](#tables)
+            * [Learn more](#learn-more-4)
+            * [Libraries](#libraries-4)
+         * [WYSIWYG editors](#wysiwyg-editors)
+            * [Learn more](#learn-more-5)
+            * [Libraries](#libraries-5)
+      * [Testing](#testing)
+         * [Tools](#tools)
+            * [In Browser](#in-browser)
+            * [CLI](#cli)
+            * [IDE (Could be considered CLI)](#ide-could-be-considered-cli)
+         * [Tool Testing](#tool-testing)
 
 ## How this list was formed
 I will test with:
@@ -83,6 +92,14 @@ I will test with:
 |-|-|
 | [A11y Dialog](http://edenspiekermann.github.io/a11y-dialog/) | Lightweight library, html, js api  |
 | [React Modal](https://github.com/reactjs/react-modal) | Good community who actively test with assistive tools |
+
+### Tables
+#### Learn more
+#### Libraries
+
+### WYSIWYG editors
+#### Learn more
+#### Libraries
 
 ## Testing
 ### Tools
