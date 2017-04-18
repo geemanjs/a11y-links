@@ -65,7 +65,14 @@ You should be using HTML, CSS only for these
 
 #### Typography
 ##### Learn more
+| Links | Description |
+|-|-|
+| [WebAIM](http://webaim.org/techniques/fonts/) | Font considerations |
+| [Hemming Way] (http://www.hemingwayapp.com/)| Improve content readability |
+| [Penn State university](http://accessibility.psu.edu/boldfacehtml/)| `<b>` vs `<strong>` & `<i>` vs `<em>` |
+| [UK Government](https://accessibility.blog.gov.uk/2017/02/08/advice-for-creating-content-that-works-well-with-screen-readers/)| |
 ##### Libraries
+You should be using the semantics of HTML for text
 
 #### Tables
 ##### Learn more
@@ -73,6 +80,11 @@ You should be using HTML, CSS only for these
 
 #### Colour
 ##### Learn more
+|Links|Description|
+|-|-|
+| [WCAG2.0 colour](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-without-color.html) | WCAG advice |
+| [WEBAIM Contrast Checker](http://webaim.org/resources/contrastchecker/)| - |
+| | |
 ##### Libraries
 
 ### Forms
