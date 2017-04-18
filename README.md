@@ -2,41 +2,38 @@
 A collection of useful accessibility links
 
 **Table of Contents**
-   * [a11y-links](#a11y-links)
-      * [How this list was formed](#how-this-list-was-formed)
-         * [Learn more sections](#learn-more-sections)
-         * [Libraries sections](#libraries-sections)
-      * [Components](#components)
-         * [Forms](#forms)
-            * [Learn more](#learn-more)
-            * [Libraries](#libraries)
-         * [Navbars/Menus](#navbarsmenus)
-            * [Learn more](#learn-more-1)
-            * [Libraries](#libraries-1)
-         * [Select](#select)
-            * [Learn more](#learn-more-2)
-            * [Libraries](#libraries-2)
-         * [Dialogs](#dialogs)
-            * [Learn more](#learn-more-3)
-            * [Libraries](#libraries-3)
-         * [Tables](#tables)
-            * [Learn more](#learn-more-4)
-            * [Libraries](#libraries-4)
-         * [WYSIWYG editors](#wysiwyg-editors)
-            * [Learn more](#learn-more-5)
-            * [Libraries](#libraries-5)
-      * [Testing](#testing)
-         * [Tools](#tools)
-            * [In Browser](#in-browser)
-            * [CLI](#cli)
-            * [IDE (Could be considered CLI)](#ide-could-be-considered-cli)
-         * [Tool Testing](#tool-testing)
+* [How this list was formed](#how-this-list-was-formed)
+   * [Learn more sections](#learn-more-sections)
+   * [Libraries sections](#libraries-sections)
+* [Content](#content)
+   * [Headings](#headings)
+   * [Typography](#typography)
+   * [Tables](#tables)
+   * [Colour](#colour)
+* [Forms](#forms)
+   * [Inputs](#inputs)
+   * [Select](#select)
+   * [Checkboxes](#checkboxes)
+   * [Radios](#radios)
+   * [Buttons](#buttons)
+   * [Validation](#validation)
+* [Navigation](#navigation)
+* [General Components](#general-components)
+   * [Dialogs](#dialogs)
+   * [WYSIWYG editors](#wysiwyg-editors)
+* [Testing](#testing)
+   * [Tools](#tools)
+      * [In Browser](#in-browser)
+      * [CLI](#cli)
+      * [IDE (Could be considered CLI)](#ide-could-be-considered-cli)
+   * [Tool Testing](#tool-testing)
 
 ## How this list was formed
-I will test with:
+The articles/libraries were tested in Google Chrome with:
    * JAWS
    * Dragon
    * Zoomtext
+   * OSX Voiceover
    
 ### Learn more sections
 * Could someone with a basic grasp of JS,CSS,HTML understand it?
@@ -55,13 +52,52 @@ I will test with:
 * Library usability?
 * Library extension points?
 
-## Components
+### Content
+#### Headings
+##### Learn more
+##### Libraries
+
+#### Typography
+##### Learn more
+##### Libraries
+
+#### Tables
+##### Learn more
+##### Libraries
+
+#### Colour
+##### Learn more
+##### Libraries
+
 ### Forms
-#### Learn more
+#### Inputs
+##### Learn more
+##### Libraries
 
-#### Libraries
+#### Select
+##### Learn more 
+##### Resources
 
-### Navbars/Menus
+#### Checkboxes
+##### Learn more
+##### Libraries
+
+#### Radios
+##### Learn more
+##### Libraries
+
+#### Buttons
+##### Learn more
+| Links | Description |
+|-|-|
+|[Mozilla 'Button role'](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_button_role)| |
+##### Libraries
+
+#### Validation
+##### Learn more
+##### Libraries
+
+### Navigation
 #### Learn more
 | Links | Description | 
 |-|-|
@@ -75,31 +111,23 @@ I will test with:
 | [React Bootstrap](https://react-bootstrap.github.io/components.html#navigation)| Accessible bootstrap navigation bar |
 | [React Tray](http://instructure-react.github.io/react-tray/basic/) | Instructure library - Very well made! |
 
-### Select
-#### Learn more
-
-#### Libraries
-
-### Dialogs
-#### Learn more
+### General Components
+#### Dialogs
+##### Learn more
 | Link | Description | 
 |-|-|
 | [Mozilla Guidance](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_dialog_role) | Mozilla's advice on managing dialogs |
 | [Smashing Magazine Guidance](https://www.smashingmagazine.com/2014/09/making-modal-windows-better-for-everyone/) | Detailed post by smashing magazine recommending best practices | 
 
-#### Libraries
+##### Libraries
 | link | Description |
 |-|-|
 | [A11y Dialog](http://edenspiekermann.github.io/a11y-dialog/) | Lightweight library, html, js api  |
 | [React Modal](https://github.com/reactjs/react-modal) | Good community who actively test with assistive tools |
 
-### Tables
-#### Learn more
-#### Libraries
-
-### WYSIWYG editors
-#### Learn more
-#### Libraries
+#### WYSIWYG editors
+##### Learn more
+##### Libraries
 
 ## Testing
 ### Tools
