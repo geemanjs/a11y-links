@@ -55,7 +55,13 @@ The articles/libraries were tested in Google Chrome with:
 ### Content
 #### Headings
 ##### Learn more
+|Links|
+|-|
+| [W3](https://www.w3.org/WAI/tutorials/page-structure/headings/) |
+| [BBC](http://www.bbc.co.uk/guidelines/futuremedia/accessibility/mobile/structure/headings#HTML)|
+| [Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)  |
 ##### Libraries
+You should be using HTML, CSS only for these
 
 #### Typography
 ##### Learn more
