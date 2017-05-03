@@ -83,8 +83,13 @@ You should be using the semantics of HTML for text
 |Links|Description|
 |-|-|
 | [WCAG2.0 colour](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-without-color.html) | WCAG advice |
+| [Contrast Checker](https://colour-contrast.github.io/)| - |
 | [WEBAIM Contrast Checker](http://webaim.org/resources/contrastchecker/)| - |
-| | |
+| ['We Are Color Blind'](http://wearecolorblind.com/)| A movement to try and raise awareness of colour blindness |
+| [Designing for colour blindness](http://blog.usabilla.com/how-to-design-for-color-blindness/)| Good blog post on designing for colour 
+blindness |
+| [How users change colours ](https://accessibility.blog.gov.uk/2017/03/27/how-users-change-colours-on-websites/)| gov.uk research 
+article on how users change colours in the browser |
 ##### Libraries
 
 ### Forms
