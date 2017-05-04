@@ -88,13 +88,19 @@ You should be using the semantics of HTML for text
 | ['We Are Color Blind'](http://wearecolorblind.com/)| A movement to try and raise awareness of colour blindness |
 | [Designing for colour blindness](http://blog.usabilla.com/how-to-design-for-color-blindness/)| Good blog post on designing for colour 
 blindness |
-| [How users change colours ](https://accessibility.blog.gov.uk/2017/03/27/how-users-change-colours-on-websites/)| gov.uk research 
+| [How users change colours](https://accessibility.blog.gov.uk/2017/03/27/how-users-change-colours-on-websites/)| gov.uk research 
 article on how users change colours in the browser |
 ##### Libraries
 
 ### Forms
 #### Inputs
 ##### Learn more
+|Links|Description|
+|-|-|
+| [W3 WAI advice](https://www.w3.org/WAI/tutorials/forms/) | More general than just input fields but solid tutorials |
+| [WebAIM form advice](http://webaim.org/techniques/forms/controls#input) | |
+| [Building accessible forms](http://usability.com.au/2013/04/accessible-forms-1-labels-and-identification/) | In depth write up 
+including the why |
 ##### Libraries
 
 #### Select
