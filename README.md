@@ -86,7 +86,8 @@ You should be using the semantics of HTML for text
 |-|-|
 | [Pivotal Table](http://styleguide.cfapps.io/react_base_tables.html) | Great Library from an accessibility perspective, limited extension | 
 | [React Bootstrap Table](http://allenfang.github.io/react-bootstrap-table/) | Apart from Headers been in a seperate table, the rest of the markup is pretty good!  |
-### Bad Tables
+
+#### Bad Tables
 | Links | Description |
 |-|-|
 | [React Tables](https://github.com/tannerlinsley/react-table) | See [Issue 130](https://github.com/tannerlinsley/react-table/issues/130) |
