@@ -139,6 +139,13 @@ including the why |
 
 #### Validation
 ##### Learn more
+| Links | Description |
+|-|-|
+|[WebAIM advice](http://webaim.org/techniques/formvalidation/)| Covers the basics well |
+|[Deque advice](https://www.deque.com/blog/accessible-client-side-form-validation-html5/) | Good explanation of HTML5
+ methods |
+|[Andrew Burton Blog Post](https://medium.com/@andrew.burton/form-validation-best-practices-8e3bec7d0549)| Helps set 
+you in the right mindset |
 ##### Libraries
 
 ### Navigation
