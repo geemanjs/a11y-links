@@ -87,7 +87,7 @@ You should be using the semantics of HTML for text
 | [Pivotal Table](http://styleguide.cfapps.io/react_base_tables.html) | Great Library from an accessibility perspective, limited extension | 
 | [React Bootstrap Table](http://allenfang.github.io/react-bootstrap-table/) | Apart from Headers been in a seperate table, the rest of the markup is pretty good!  |
 
-#### Bad Tables
+##### Bad Tables
 | Links | Description |
 |-|-|
 | [React Tables](https://github.com/tannerlinsley/react-table) | See [Issue 130](https://github.com/tannerlinsley/react-table/issues/130) |
@@ -117,18 +117,25 @@ article on how users change colours in the browser |
 | [Building accessible forms](http://usability.com.au/2013/04/accessible-forms-1-labels-and-identification/) | In depth write up 
 including the why |
 ##### Libraries
+Standard HTML/CSS/JS recommended
 
 #### Select
 ##### Learn more 
+| Links | Description |
+|-|-|
+|||
 ##### Resources
+Standard HTML/CSS/JS recommended
 
-#### Checkboxes
+#### Radios & Checkboxes
 ##### Learn more
+| Links | Description |
+|-|-|
+| [GDS Improving Radios & Checkboxes](https://gdstechnology.blog.gov.uk/2015/08/27/making-radio-buttons-and-checkboxes-easier-to-use/) | Good write up by GDS with well backed up research |
+| [W3 grouping controls](https://www.w3.org/WAI/tutorials/forms/grouping/)| Using fieldset/legends to group content |
+| [Multi level grouped checkboxes](http://oaa-accessibility.org/example/6/)| Interesting method of 'select all' | 
 ##### Libraries
-
-#### Radios
-##### Learn more
-##### Libraries
+Standard HTML/CSS/JS recommended
 
 #### Buttons
 ##### Learn more
@@ -136,6 +143,7 @@ including the why |
 |-|-|
 |[Mozilla 'Button role'](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_button_role)| |
 ##### Libraries
+Standard HTML/CSS/JS recommended
 
 #### Validation
 ##### Learn more
@@ -163,6 +171,26 @@ you in the right mindset |
 | [React Tray](http://instructure-react.github.io/react-tray/basic/) | Instructure library - Very well made! |
 
 ### General Components
+#### Tabs
+##### Learn more 
+| Link | Description |
+|-|-|
+| [Smashing Magazine](https://www.smashingmagazine.com/2009/06/module-tabs-in-web-design-best-practices-and-solutions/)| Good writeup which links out to further examples |
+| [OAA Accessibility](http://oaa-accessibility.org/example/34/)| Good example with well marked up ARIA |
+|[W3](https://www.w3.org/TR/wai-aria-practices/#tabpanel)| How users expect tabs to behave |
+
+##### Libraries
+| Link | Description |
+|-|-|
+| [React tabs](https://github.com/reactjs/react-tabs) | Extensible and well marked up |
+| [React accessible tabs](https://github.com/stowball/react-accessible-tabs) | Uses ARIA, but worked well |
+
+###### Bad Libraries
+|Link |Why?|
+|-|-|
+| [MUI CSS](https://www.muicss.com) | No Keyboard Navigation |
+| [Material UI](http://www.material-ui.com/)| No linking between title & content. See [Issue 61 for updates](https://github.com/callemall/material-ui/issues/61) |
+
 #### Dialogs
 ##### Learn more
 | Link | Description | 
