@@ -3,30 +3,29 @@ A collection of useful accessibility links
 
 **Table of Contents**
 * [How this list was formed](#how-this-list-was-formed)
-   * [Learn more sections](#learn-more-sections)
-   * [Libraries sections](#libraries-sections)
-* [Content](#content)
-   * [Headings](#headings)
-   * [Typography](#typography)
-   * [Tables](#tables)
-   * [Colour](#colour)
-* [Forms](#forms)
-   * [Inputs](#inputs)
-   * [Select](#select)
-   * [Checkboxes](#checkboxes)
-   * [Radios](#radios)
-   * [Buttons](#buttons)
-   * [Validation](#validation)
-* [Navigation](#navigation)
-* [General Components](#general-components)
-   * [Dialogs](#dialogs)
-   * [WYSIWYG editors](#wysiwyg-editors)
-* [Testing](#testing)
-   * [Tools](#tools)
-      * [In Browser](#in-browser)
-      * [CLI](#cli)
-      * [IDE (Could be considered CLI)](#ide-could-be-considered-cli)
-   * [Tool Testing](#tool-testing)
+    * [Learn more sections](#learn-more-sections)
+    * [Libraries sections](#libraries-sections)
+    * [Content](#content)
+       * [Headings](#headings)
+       * [Typography](#typography)
+       * [Tables](#tables)
+       * [Colour](#colour)
+    * [Forms](#forms)
+       * [Inputs](#inputs)
+       * [Select](#select)
+       * [Radios &amp; Checkboxes](#radios--checkboxes)
+       * [Buttons](#buttons)
+       * [Validation](#validation)
+    * [Navigation](#navigation)
+    * [General Components](#general-components)
+       * [Tabs](#tabs)
+       * [Dialogs](#dialogs)
+ * [Testing](#testing)
+    * [Tools](#tools)
+       * [In Browser](#in-browser)
+       * [CLI](#cli)
+       * [IDE (Could be considered CLI)](#ide-could-be-considered-cli)
+    * [Tool Testing](#tool-testing)
 
 ## How this list was formed
 The articles/libraries were tested in Google Chrome with:
@@ -196,17 +195,20 @@ you in the right mindset |
 | Link | Description | 
 |-|-|
 | [Mozilla Guidance](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_dialog_role) | Mozilla's advice on managing dialogs |
-| [Smashing Magazine Guidance](https://www.smashingmagazine.com/2014/09/making-modal-windows-better-for-everyone/) | Detailed post by smashing magazine recommending best practices | 
+| [Smashing Magazine Guidance](https://www.smashingmagazine.com/2014/09/making-modal-windows-better-for-everyone/) | Detailed post by smashing magazine recommending best practices |
 
 ##### Libraries
-| link | Description |
+| Link | Description |
 |-|-|
 | [A11y Dialog](http://edenspiekermann.github.io/a11y-dialog/) | Lightweight library, html, js api  |
 | [React Modal](https://github.com/reactjs/react-modal) | Good community who actively test with assistive tools |
+| [React Overlays](https://react-bootstrap.github.io/react-overlays) | Twitter bootstrap implementation |
 
-#### WYSIWYG editors
-##### Learn more
-##### Libraries
+###### Bad Libraries
+| Link | Why? |
+|-|-|
+| [Material UI](http://www.material-ui.com/) | No ARIA and poor markup |
+
 
 ## Testing
 ### Tools
